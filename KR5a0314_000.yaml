@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5a0314/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周氏冥通記
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:46:20.668920'
+  source:
+    repository: kanripo
+    path: KR5a0314/KR5a0314_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:4946bae62e3403141dcddbdfce23ad2e1deeb4107af384a1f8cfe9f85dc62435
